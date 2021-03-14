@@ -34,7 +34,7 @@ class Hero extends React.Component {
                 }}
               />
               <button>
-                  <a href="https://docs.google.com/document/d/11DNZp6kQYFXKQUuhep-kdiy0YOoySiQuZVgPUURjqgY/edit?usp=sharing">Resume</a>
+                  <a href="https://0u714w.github.io/resume/">Resume</a>
               </button>
             </div>
             {this.icons()}

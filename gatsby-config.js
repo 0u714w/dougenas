@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Retro - One Page Resume Template',
+    title: 'Douglass Enas',
     description:
-      'Retro is a modern stylish one page resume template built using React and Gatsby',
+      'Portfolio for Doug Enas',
   },
   pathPrefix: '/dougenas',
   plugins: [
